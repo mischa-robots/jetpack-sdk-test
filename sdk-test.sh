@@ -74,9 +74,9 @@ section() {
 
 ################# INFO ####################################################
 
-echo "${BOLD}${GREEN}  NVIDIA JetPack SDK TEST  ·  $(date '+%Y-%m-%d %H:%M:%S')${RESET}\n"
-echo "${GREEN} Copyright (c) 2026 Mischa (Michael Schaefer) ${RESET}\n"
-echo "${GREEN} https://github.com/mischa-robots/jetpack-sdk-test/ ${RESET}\n"
+echo "${BOLD}${GREEN}  NVIDIA JetPack SDK TEST  ·  $(date '+%Y-%m-%d %H:%M:%S')${RESET}"
+echo "${GREEN} Copyright (c) 2026 Mischa (Michael Schaefer) ${RESET}"
+echo "${GREEN} https://github.com/mischa-robots/jetpack-sdk-test/ ${RESET}"
 
 
 ################# SECTION L4T ##############################################
